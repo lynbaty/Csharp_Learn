@@ -1,0 +1,7 @@
+D:\GIT_CLONE\Csharp_Learn\CSDL\ArraytoStack\bin\Debug\ArraytoStack.exe.config
+D:\GIT_CLONE\Csharp_Learn\CSDL\ArraytoStack\bin\Debug\ArraytoStack.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\ArraytoStack\bin\Debug\ArraytoStack.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\ArraytoStack\obj\Debug\ArraytoStack.csprojAssemblyReference.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\ArraytoStack\obj\Debug\ArraytoStack.csproj.CoreCompileInputs.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\ArraytoStack\obj\Debug\ArraytoStack.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\ArraytoStack\obj\Debug\ArraytoStack.pdb
