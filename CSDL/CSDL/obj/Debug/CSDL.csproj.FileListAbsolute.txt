@@ -5,3 +5,10 @@ C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.csprojAssemblyReference.c
 C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.csproj.CoreCompileInputs.cache
 C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.exe
 C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\CSDL\bin\Debug\CSDL.exe.config
+D:\GIT_CLONE\Csharp_Learn\CSDL\CSDL\bin\Debug\CSDL.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\CSDL\bin\Debug\CSDL.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\CSDL\obj\Debug\CSDL.csprojAssemblyReference.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\CSDL\obj\Debug\CSDL.csproj.CoreCompileInputs.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\CSDL\obj\Debug\CSDL.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\CSDL\obj\Debug\CSDL.pdb

@@ -16,15 +16,26 @@ namespace CSDL
             InsertFrontNode(Nodehead, 23);
             InsertFrontNode(Nodehead, 18);
             InsertFrontNode(Nodehead, 11);
+            
+            
             Node x = Nodehead.head;
+            SingleLinkedList xx = new SingleLinkedList(x);
+            Node y = ReverseNode(xx);
             while (x != null)
             {
                 Console.WriteLine(x.data);
                 x = x.next;
             }
+            while (y != null)
+            {
+                Console.WriteLine(y.data);
+                y = y.next;
+            }
 
 
         }
+        
+        
         static void InsertFrontNode(SingleLinkedList singlyList, int new_data)
         {
             Node new_node = new Node(new_data);
@@ -43,7 +54,7 @@ namespace CSDL
 
             DoublyList.head = new_node;
         }
-        internal void InsertLastNode(SingleLinkedList SinglyList, int new_data)
+        static void InsertLastNode(SingleLinkedList SinglyList, int new_data)
         {
             Node new_node = new Node(new_data);
             if (SinglyList.head == null)
@@ -56,7 +67,7 @@ namespace CSDL
   
            
         }
-        internal void InsertLastDNode(DoublyLinkedList DoublyList, int new_data)
+        static void InsertLastDNode(DoublyLinkedList DoublyList, int new_data)
         {
             DNode new_node = new DNode(new_data);
             if(DoublyList.head == null)
@@ -70,7 +81,49 @@ namespace CSDL
             new_node.prev = LastNode;
  
         }
-        internal Node GetLastNode(SingleLinkedList SinglyList)
+        static void InsertAfterNode(Node PrevNode, int new_data)
+        {
+            if(PrevNode == null)
+            {
+                Console.WriteLine("PreNod can't null");
+                return;
+            }
+            Node New_Node = new Node(new_data);
+            PrevNode.next = New_Node.next;
+            PrevNode.next = New_Node;
+
+
+        }
+        static Node ReverseNode(SingleLinkedList Singly)
+        {
+            Node Temp = Singly.head;
+            Node x = null; 
+            while (Temp == null)
+            {
+                Node y = Temp;
+                Temp = Temp.next;
+                x = Temp;
+                x.next = y;
+            }
+            return Temp;
+        }
+        static void InsertAfterDNode(DNode PreNode, int new_data)
+        {
+            if(PreNode == null)
+            {
+                Console.WriteLine("PreNod can't null");
+                return;
+            }
+            DNode NewNode = new DNode(new_data);
+            PreNode.next = NewNode.next;
+            NewNode.prev = PreNode;
+            if (NewNode.next != null)
+            {
+                NewNode.next.prev = NewNode;
+            }
+
+        }
+        static Node GetLastNode(SingleLinkedList SinglyList)
         {
             Node temp = SinglyList.head;
             while(temp.next != null)
@@ -79,7 +132,7 @@ namespace CSDL
             }
             return temp;
         }
-        internal DNode GetLastDNode(DoublyLinkedList DoublyList)
+        static DNode GetLastDNode(DoublyLinkedList DoublyList)
         {
             DNode temp = DoublyList.head;
             while(temp.next !=null)
