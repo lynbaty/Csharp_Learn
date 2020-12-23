@@ -1,0 +1,13 @@
+D:\Csharp\MySolution\HelloCSharp\bin\Debug\netcoreapp3.1\HelloCSharp.exe
+D:\Csharp\MySolution\HelloCSharp\bin\Debug\netcoreapp3.1\HelloCSharp.deps.json
+D:\Csharp\MySolution\HelloCSharp\bin\Debug\netcoreapp3.1\HelloCSharp.runtimeconfig.json
+D:\Csharp\MySolution\HelloCSharp\bin\Debug\netcoreapp3.1\HelloCSharp.runtimeconfig.dev.json
+D:\Csharp\MySolution\HelloCSharp\bin\Debug\netcoreapp3.1\HelloCSharp.dll
+D:\Csharp\MySolution\HelloCSharp\bin\Debug\netcoreapp3.1\HelloCSharp.pdb
+D:\Csharp\MySolution\HelloCSharp\obj\Debug\netcoreapp3.1\HelloCSharp.csprojAssemblyReference.cache
+D:\Csharp\MySolution\HelloCSharp\obj\Debug\netcoreapp3.1\HelloCSharp.AssemblyInfoInputs.cache
+D:\Csharp\MySolution\HelloCSharp\obj\Debug\netcoreapp3.1\HelloCSharp.AssemblyInfo.cs
+D:\Csharp\MySolution\HelloCSharp\obj\Debug\netcoreapp3.1\HelloCSharp.csproj.CoreCompileInputs.cache
+D:\Csharp\MySolution\HelloCSharp\obj\Debug\netcoreapp3.1\HelloCSharp.dll
+D:\Csharp\MySolution\HelloCSharp\obj\Debug\netcoreapp3.1\HelloCSharp.pdb
+D:\Csharp\MySolution\HelloCSharp\obj\Debug\netcoreapp3.1\HelloCSharp.genruntimeconfig.cache

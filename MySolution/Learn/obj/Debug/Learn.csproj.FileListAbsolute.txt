@@ -1,0 +1,7 @@
+D:\Csharp\MySolution\Learn\bin\Debug\Learn.exe.config
+D:\Csharp\MySolution\Learn\bin\Debug\Learn.exe
+D:\Csharp\MySolution\Learn\bin\Debug\Learn.pdb
+D:\Csharp\MySolution\Learn\obj\Debug\Learn.csprojAssemblyReference.cache
+D:\Csharp\MySolution\Learn\obj\Debug\Learn.csproj.CoreCompileInputs.cache
+D:\Csharp\MySolution\Learn\obj\Debug\Learn.exe
+D:\Csharp\MySolution\Learn\obj\Debug\Learn.pdb

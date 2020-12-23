@@ -1,0 +1,7 @@
+D:\Csharp\MySolution\Encapsul\bin\Debug\Encapsul.exe.config
+D:\Csharp\MySolution\Encapsul\bin\Debug\Encapsul.exe
+D:\Csharp\MySolution\Encapsul\bin\Debug\Encapsul.pdb
+D:\Csharp\MySolution\Encapsul\obj\Debug\Encapsul.csprojAssemblyReference.cache
+D:\Csharp\MySolution\Encapsul\obj\Debug\Encapsul.csproj.CoreCompileInputs.cache
+D:\Csharp\MySolution\Encapsul\obj\Debug\Encapsul.exe
+D:\Csharp\MySolution\Encapsul\obj\Debug\Encapsul.pdb

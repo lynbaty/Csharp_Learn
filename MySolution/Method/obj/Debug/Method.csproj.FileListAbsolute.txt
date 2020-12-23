@@ -1,0 +1,7 @@
+D:\Csharp\MySolution\Method\bin\Debug\Method.exe.config
+D:\Csharp\MySolution\Method\bin\Debug\Method.exe
+D:\Csharp\MySolution\Method\bin\Debug\Method.pdb
+D:\Csharp\MySolution\Method\obj\Debug\Method.csprojAssemblyReference.cache
+D:\Csharp\MySolution\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+D:\Csharp\MySolution\Method\obj\Debug\Method.exe
+D:\Csharp\MySolution\Method\obj\Debug\Method.pdb

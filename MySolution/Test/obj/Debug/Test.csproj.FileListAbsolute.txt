@@ -1,0 +1,7 @@
+D:\Csharp\MySolution\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Csharp\MySolution\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Csharp\MySolution\Test\bin\Debug\Test.exe.config
+D:\Csharp\MySolution\Test\bin\Debug\Test.exe
+D:\Csharp\MySolution\Test\bin\Debug\Test.pdb
+D:\Csharp\MySolution\Test\obj\Debug\Test.exe
+D:\Csharp\MySolution\Test\obj\Debug\Test.pdb

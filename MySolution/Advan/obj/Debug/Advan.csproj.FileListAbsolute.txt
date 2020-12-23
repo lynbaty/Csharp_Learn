@@ -1,0 +1,7 @@
+D:\Csharp\MySolution\Advan\bin\Debug\Advan.exe.config
+D:\Csharp\MySolution\Advan\bin\Debug\Advan.exe
+D:\Csharp\MySolution\Advan\bin\Debug\Advan.pdb
+D:\Csharp\MySolution\Advan\obj\Debug\Advan.csprojAssemblyReference.cache
+D:\Csharp\MySolution\Advan\obj\Debug\Advan.csproj.CoreCompileInputs.cache
+D:\Csharp\MySolution\Advan\obj\Debug\Advan.exe
+D:\Csharp\MySolution\Advan\obj\Debug\Advan.pdb
