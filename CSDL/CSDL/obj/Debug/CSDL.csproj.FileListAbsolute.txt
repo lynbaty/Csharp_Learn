@@ -1,0 +1,7 @@
+C:\Users\LYNBATY\source\repos\CSDL\CSDL\bin\Debug\CSDL.exe.config
+C:\Users\LYNBATY\source\repos\CSDL\CSDL\bin\Debug\CSDL.exe
+C:\Users\LYNBATY\source\repos\CSDL\CSDL\bin\Debug\CSDL.pdb
+C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.csprojAssemblyReference.cache
+C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.csproj.CoreCompileInputs.cache
+C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.exe
+C:\Users\LYNBATY\source\repos\CSDL\CSDL\obj\Debug\CSDL.pdb
