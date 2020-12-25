@@ -1,0 +1,7 @@
+D:\GIT_CLONE\Csharp_Learn\CSDL\CaThay\bin\Debug\CaThay.exe.config
+D:\GIT_CLONE\Csharp_Learn\CSDL\CaThay\bin\Debug\CaThay.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\CaThay\bin\Debug\CaThay.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\CaThay\obj\Debug\CaThay.csprojAssemblyReference.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\CaThay\obj\Debug\CaThay.csproj.CoreCompileInputs.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\CaThay\obj\Debug\CaThay.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\CaThay\obj\Debug\CaThay.pdb

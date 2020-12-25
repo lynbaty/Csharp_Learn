@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSDL", "CSDL\CSDL.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraytoStack", "ArraytoStack\ArraytoStack.csproj", "{C57934F1-CCFB-490B-A73C-E730746F5D7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaThay", "CaThay\CaThay.csproj", "{FD6FE789-4A78-4429-A99D-7B576AE0FECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seaching", "Seaching\Seaching.csproj", "{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C57934F1-CCFB-490B-A73C-E730746F5D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C57934F1-CCFB-490B-A73C-E730746F5D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C57934F1-CCFB-490B-A73C-E730746F5D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6FE789-4A78-4429-A99D-7B576AE0FECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6FE789-4A78-4429-A99D-7B576AE0FECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6FE789-4A78-4429-A99D-7B576AE0FECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6FE789-4A78-4429-A99D-7B576AE0FECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

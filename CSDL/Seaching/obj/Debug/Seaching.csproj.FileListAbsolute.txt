@@ -1,0 +1,7 @@
+D:\GIT_CLONE\Csharp_Learn\CSDL\Seaching\bin\Debug\Seaching.exe.config
+D:\GIT_CLONE\Csharp_Learn\CSDL\Seaching\bin\Debug\Seaching.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\Seaching\bin\Debug\Seaching.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\Seaching\obj\Debug\Seaching.csprojAssemblyReference.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\Seaching\obj\Debug\Seaching.csproj.CoreCompileInputs.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\Seaching\obj\Debug\Seaching.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\Seaching\obj\Debug\Seaching.pdb
