@@ -1,0 +1,7 @@
+D:\GIT_CLONE\Csharp_Learn\CSDL\Sorting\bin\Debug\Sorting.exe.config
+D:\GIT_CLONE\Csharp_Learn\CSDL\Sorting\bin\Debug\Sorting.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\Sorting\bin\Debug\Sorting.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\Sorting\obj\Debug\Sorting.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\Sorting\obj\Debug\Sorting.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache

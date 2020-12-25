@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaThay", "CaThay\CaThay.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seaching", "Seaching\Seaching.csproj", "{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{CEA8E09D-A822-48BE-A976-BAF9D8B098C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA8E09D-A822-48BE-A976-BAF9D8B098C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA8E09D-A822-48BE-A976-BAF9D8B098C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA8E09D-A822-48BE-A976-BAF9D8B098C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA8E09D-A822-48BE-A976-BAF9D8B098C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

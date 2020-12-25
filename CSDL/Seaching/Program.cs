@@ -10,6 +10,7 @@ namespace Seaching
     {
         static void Main(string[] args)
         {
+            
             int[] array = new int[10] { 2, 4, 5, 3, 4, 6, 7, 4, 10, 11 };
             Hienmang(array);
 

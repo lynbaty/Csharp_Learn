@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C9BAB9C5-C409-42D0-9245-E92E4F8793F7}</ProjectGuid>
+    <ProjectGuid>{CEA8E09D-A822-48BE-A976-BAF9D8B098C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Seaching</RootNamespace>
-    <AssemblyName>Seaching</AssemblyName>
+    <RootNamespace>Sorting</RootNamespace>
+    <AssemblyName>Sorting</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Program.cs" />
-    <None Include="Khongdequy.cs" />
-    <None Include="Giamdan.cs" />
-    <Compile Include="CodeLearn.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
