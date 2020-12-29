@@ -1,0 +1,7 @@
+D:\GIT_CLONE\Csharp_Learn\CSDL\Treeee\bin\Debug\Treeee.exe.config
+D:\GIT_CLONE\Csharp_Learn\CSDL\Treeee\bin\Debug\Treeee.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\Treeee\bin\Debug\Treeee.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\Treeee\obj\Debug\Treeee.csprojAssemblyReference.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\Treeee\obj\Debug\Treeee.csproj.CoreCompileInputs.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\Treeee\obj\Debug\Treeee.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\Treeee\obj\Debug\Treeee.pdb

@@ -16,11 +16,12 @@ namespace Sorting
             //SortBuble(ref a);
 
             Show(a);
-            MergeSort(a);
-            //InsertSort(a);
+            //MergeSort(a);
+            ////InsertSort(a);
+            //Show(a);
+            //int[] c = RecMergeSort(ref a, 0, 1, 2, 3);
+            QuickSort(a);
             Show(a);
-            int[] c = RecMergeSort(ref a, 0, 1, 2, 3);
-            Show(c);
 
 
         }
@@ -57,18 +58,65 @@ namespace Sorting
         {
             int k = 0;
             int x = a.Length / 2;
-            for (int i = 0; i < a.Length/2; i++)
+            for (int i = 0; i < a.Length / 2; i++)
             {
-                if (a[2*i] > a[2*i + 1])
+                if (a[2 * i] > a[2 * i + 1])
                 {
-                    SwitchSort(ref a[2*i], ref a[2*i + 1]);
-                }    
-            
-            }
-            
+                    SwitchSort(ref a[2 * i], ref a[2 * i + 1]);
+                }
 
-            
-            
+            }
+
+        }
+        private static void QuickSort(int[] a)
+
+        {
+            int first = 0;
+            int last = a.Length - 1;
+            ReQuickSort(a, first, last);
+        }
+
+        private static void ReQuickSort(int[] a, int first, int last)
+        {
+            if(first >= last)
+            {
+                return;
+            }
+            int x = a[first];
+            int l1 = first;
+            int l2 = last;
+            while (l1 < l2)
+            {
+                while (l1 < l2)
+                {
+                    if(a[l2]>x)
+                    {
+                        l2--;
+                    }else
+                    {
+                        a[l1] = a[l2];
+                        l1++;
+                        break;
+                    }
+                }
+                while (l1 < l2)
+                {
+                    if (a[l1] <x)
+                    {
+                        l1++;
+                    }
+                    else
+                    {
+                        a[l2] = a[l1];
+                        l2--;
+                        break;
+                    }
+                }
+
+            }
+            a[l1] = x;
+            ReQuickSort(a, first, l1 - 1);
+            ReQuickSort(a, l1 + 1, last);
         }
 
         private static void InsertSort(int[] a)

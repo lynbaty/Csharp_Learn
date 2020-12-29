@@ -1,0 +1,7 @@
+D:\GIT_CLONE\Csharp_Learn\CSDL\LinQ\bin\Debug\LinQ.exe.config
+D:\GIT_CLONE\Csharp_Learn\CSDL\LinQ\bin\Debug\LinQ.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\LinQ\bin\Debug\LinQ.pdb
+D:\GIT_CLONE\Csharp_Learn\CSDL\LinQ\obj\Debug\LinQ.csprojAssemblyReference.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+D:\GIT_CLONE\Csharp_Learn\CSDL\LinQ\obj\Debug\LinQ.exe
+D:\GIT_CLONE\Csharp_Learn\CSDL\LinQ\obj\Debug\LinQ.pdb
